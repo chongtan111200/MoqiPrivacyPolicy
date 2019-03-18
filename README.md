@@ -1,0 +1,2 @@
+# MoqiPrivacyPolicy
+Moqi
