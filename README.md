@@ -1,4 +1,4 @@
-# MoqiPrivacyPolicy for IOS App
+# MoqiPrivacyPolicy 
 Privacy Policy
 built the Moqi app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
